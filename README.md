@@ -1,4 +1,4 @@
-# ModernTODOUI
+# ModernTodoUI
 A basic TODO app UI build on SwiftUI 
 <div>
 <img src="https://user-images.githubusercontent.com/57137427/236613460-a0bcfffa-1783-4efa-8fa1-e4d0a3dc7c06.png" height="400" />
