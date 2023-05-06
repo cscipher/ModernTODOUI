@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dragger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kwiessle/Dragger.git",
+      "state" : {
+        "revision" : "02a655127853d29727e7ce757e4754d8d9fc0ad1",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}

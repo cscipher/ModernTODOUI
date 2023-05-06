@@ -8,18 +8,35 @@
 
 /* Begin PBXBuildFile section */
 		DF787FB52A0387040037C432 /* ModernUiTodoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FB42A0387040037C432 /* ModernUiTodoApp.swift */; };
-		DF787FB72A0387040037C432 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FB62A0387040037C432 /* ContentView.swift */; };
 		DF787FB92A0387050037C432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF787FB82A0387050037C432 /* Assets.xcassets */; };
 		DF787FBD2A0387050037C432 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF787FBC2A0387050037C432 /* Preview Assets.xcassets */; };
+		DF787FC52A0387460037C432 /* HomepageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FC42A0387460037C432 /* HomepageView.swift */; };
+		DF787FC82A038CA40037C432 /* HomepageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FC72A038CA40037C432 /* HomepageModel.swift */; };
+		DF787FCA2A0393450037C432 /* TodoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FC92A0393450037C432 /* TodoModel.swift */; };
+		DF787FCC2A0394D70037C432 /* TodoCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FCB2A0394D70037C432 /* TodoCardView.swift */; };
+		DF787FCE2A03A74A0037C432 /* ColorPalleteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FCD2A03A74A0037C432 /* ColorPalleteModel.swift */; };
+		DF787FD02A03B29A0037C432 /* TodoDescriptiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FCF2A03B29A0037C432 /* TodoDescriptiveView.swift */; };
+		DF787FD52A03C8B40037C432 /* Dragger in Frameworks */ = {isa = PBXBuildFile; productRef = DF787FD42A03C8B40037C432 /* Dragger */; };
+		DF787FD72A03C8CF0037C432 /* MarkAsDoneDraggerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FD62A03C8CF0037C432 /* MarkAsDoneDraggerView.swift */; };
+		DF787FD92A03D2230037C432 /* DraggableTodoSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF787FD82A03D2230037C432 /* DraggableTodoSheet.swift */; };
+		DF8BDDCB2A063CA0009B1F26 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8BDDCA2A063CA0009B1F26 /* SplashView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		DF787FB12A0387040037C432 /* ModernUiTodo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ModernUiTodo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF787FB42A0387040037C432 /* ModernUiTodoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModernUiTodoApp.swift; sourceTree = "<group>"; };
-		DF787FB62A0387040037C432 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DF787FB82A0387050037C432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF787FBA2A0387050037C432 /* ModernUiTodo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ModernUiTodo.entitlements; sourceTree = "<group>"; };
 		DF787FBC2A0387050037C432 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DF787FC42A0387460037C432 /* HomepageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomepageView.swift; sourceTree = "<group>"; };
+		DF787FC72A038CA40037C432 /* HomepageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomepageModel.swift; sourceTree = "<group>"; };
+		DF787FC92A0393450037C432 /* TodoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoModel.swift; sourceTree = "<group>"; };
+		DF787FCB2A0394D70037C432 /* TodoCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoCardView.swift; sourceTree = "<group>"; };
+		DF787FCD2A03A74A0037C432 /* ColorPalleteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPalleteModel.swift; sourceTree = "<group>"; };
+		DF787FCF2A03B29A0037C432 /* TodoDescriptiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoDescriptiveView.swift; sourceTree = "<group>"; };
+		DF787FD62A03C8CF0037C432 /* MarkAsDoneDraggerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkAsDoneDraggerView.swift; sourceTree = "<group>"; };
+		DF787FD82A03D2230037C432 /* DraggableTodoSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DraggableTodoSheet.swift; sourceTree = "<group>"; };
+		DF8BDDCA2A063CA0009B1F26 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +44,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF787FD52A03C8B40037C432 /* Dragger in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,8 +70,9 @@
 		DF787FB32A0387040037C432 /* ModernUiTodo */ = {
 			isa = PBXGroup;
 			children = (
+				DF787FC62A038C9A0037C432 /* models */,
+				DF787FC32A03870E0037C432 /* views */,
 				DF787FB42A0387040037C432 /* ModernUiTodoApp.swift */,
-				DF787FB62A0387040037C432 /* ContentView.swift */,
 				DF787FB82A0387050037C432 /* Assets.xcassets */,
 				DF787FBA2A0387050037C432 /* ModernUiTodo.entitlements */,
 				DF787FBB2A0387050037C432 /* Preview Content */,
@@ -67,6 +86,29 @@
 				DF787FBC2A0387050037C432 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DF787FC32A03870E0037C432 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				DF787FC42A0387460037C432 /* HomepageView.swift */,
+				DF787FCB2A0394D70037C432 /* TodoCardView.swift */,
+				DF787FCF2A03B29A0037C432 /* TodoDescriptiveView.swift */,
+				DF787FD62A03C8CF0037C432 /* MarkAsDoneDraggerView.swift */,
+				DF787FD82A03D2230037C432 /* DraggableTodoSheet.swift */,
+				DF8BDDCA2A063CA0009B1F26 /* SplashView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		DF787FC62A038C9A0037C432 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				DF787FC72A038CA40037C432 /* HomepageModel.swift */,
+				DF787FC92A0393450037C432 /* TodoModel.swift */,
+				DF787FCD2A03A74A0037C432 /* ColorPalleteModel.swift */,
+			);
+			path = models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -85,6 +127,9 @@
 			dependencies = (
 			);
 			name = ModernUiTodo;
+			packageProductDependencies = (
+				DF787FD42A03C8B40037C432 /* Dragger */,
+			);
 			productName = ModernUiTodo;
 			productReference = DF787FB12A0387040037C432 /* ModernUiTodo.app */;
 			productType = "com.apple.product-type.application";
@@ -113,6 +158,9 @@
 				Base,
 			);
 			mainGroup = DF787FA82A0387040037C432;
+			packageReferences = (
+				DF787FD32A03C8B40037C432 /* XCRemoteSwiftPackageReference "Dragger" */,
+			);
 			productRefGroup = DF787FB22A0387040037C432 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -139,8 +187,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DF787FB72A0387040037C432 /* ContentView.swift in Sources */,
+				DF787FC52A0387460037C432 /* HomepageView.swift in Sources */,
+				DF787FC82A038CA40037C432 /* HomepageModel.swift in Sources */,
+				DF787FCA2A0393450037C432 /* TodoModel.swift in Sources */,
+				DF787FCE2A03A74A0037C432 /* ColorPalleteModel.swift in Sources */,
+				DF787FD72A03C8CF0037C432 /* MarkAsDoneDraggerView.swift in Sources */,
+				DF787FCC2A0394D70037C432 /* TodoCardView.swift in Sources */,
+				DF787FD92A03D2230037C432 /* DraggableTodoSheet.swift in Sources */,
+				DF8BDDCB2A063CA0009B1F26 /* SplashView.swift in Sources */,
 				DF787FB52A0387040037C432 /* ModernUiTodoApp.swift in Sources */,
+				DF787FD02A03B29A0037C432 /* TodoDescriptiveView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,6 +410,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		DF787FD32A03C8B40037C432 /* XCRemoteSwiftPackageReference "Dragger" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kwiessle/Dragger.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		DF787FD42A03C8B40037C432 /* Dragger */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = DF787FD32A03C8B40037C432 /* XCRemoteSwiftPackageReference "Dragger" */;
+			productName = Dragger;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = DF787FA92A0387040037C432 /* Project object */;
 }

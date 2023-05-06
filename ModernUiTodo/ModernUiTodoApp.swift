@@ -11,7 +11,8 @@ import SwiftUI
 struct ModernUiTodoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
+
